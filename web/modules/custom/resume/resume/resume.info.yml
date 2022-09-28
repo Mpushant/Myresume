@@ -1,0 +1,7 @@
+name: Resume
+description: form to create resume.
+type: module
+core: 8.x
+core_version_requirement: ^8 || ^9
+package: Custom
+
